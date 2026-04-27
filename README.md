@@ -1,0 +1,1 @@
+Desktop inventory management application built with Python, Pandas, and Tkinter. It enables users to add, update, and track stock records through a graphical interface, automates reporting, reduces manual spreadsheet work, and improves accuracy and efficiency in inventory control processes.
