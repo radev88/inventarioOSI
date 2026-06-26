@@ -1,10 +1,9 @@
-**Inventory Management App**
+<h1>Inventory Management App</h1>
 
 A desktop-based inventory management application designed to streamline stock tracking and improve accuracy in inventory control processes. The application allows users to add, update, and track inventory records through an intuitive graphical user interface, reducing reliance on manual spreadsheets and improving operational efficiency.
 
-<br>
 
-📌 **Overview**
+📌 <h2>Overview</h2>
 
 This application was built to solve a repetitive and time-consuming process within a university IT department. Interns and staff were manually tracking laptops and desktops in high-volume inventory cycles, which led to inefficiencies and occasional inconsistencies.
 
@@ -16,17 +15,15 @@ To address this, this tool was developed to centralize inventory management, all
 * Improve data accuracy across shared records
 * Reduce manual spreadsheet workload
 
-<br>
 
-🛠 **Technologies Used**
+🛠 <h2>Technologies Used</h2>
 
 * Python
 * Pandas
 * Tkinter
 
-<br>
 
-⚙️ **Features**
+⚙️ <h2>Features</h2>
 
 * Graphical user interface (GUI) for ease of use
 * Real-time inventory updates
@@ -34,9 +31,8 @@ To address this, this tool was developed to centralize inventory management, all
 * Simplified tracking of IT equipment (laptops, desktops, etc.)
 * Improved consistency and reduced human error in reporting
 
-<br>
 
-🚀 **The Process**
+🚀 <h2>The Process</h2>
 
 This project originated from a real operational need in a university IT office. The department was managing a high volume of devices while relying heavily on manual Excel tracking.
 
@@ -54,18 +50,16 @@ To solve this, the application was designed and implemented as an internal tool 
 * Reduce daily manual counting efforts significantly
 * Improve workflow efficiency across the IT office
 
-<br>
 
-📈 **Impact**
+📈 <h2>Impact</h2>
 
 * Reduced manual inventory tracking workload
 * Improved accuracy in device records
 * Streamlined IT asset management for staff and interns
 * Increased accessibility and transparency of inventory data
 
-<br>
 
-📂 **Future Improvements**
+📂 <h2>Future Improvements</h2>
 
 * User authentication system
 * Cloud/database integration (SQL or Firebase)
@@ -73,7 +67,6 @@ To solve this, the application was designed and implemented as an internal tool 
 * Export reports to Excel/PDF
 * Search and filtering enhancements
 
-⸻
 
 📌 <h1>Author</h1>
 
