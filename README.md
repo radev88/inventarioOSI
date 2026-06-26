@@ -2,7 +2,7 @@
 
 A desktop-based inventory management application designed to streamline stock tracking and improve accuracy in inventory control processes. The application allows users to add, update, and track inventory records through an intuitive graphical user interface, reducing reliance on manual spreadsheets and improving operational efficiency.
 
-⸻
+<br>
 
 📌 **Overview**
 
@@ -16,7 +16,7 @@ To address this, this tool was developed to centralize inventory management, all
 * Improve data accuracy across shared records
 * Reduce manual spreadsheet workload
 
-⸻
+<br>
 
 🛠 **Technologies Used**
 
@@ -24,7 +24,7 @@ To address this, this tool was developed to centralize inventory management, all
 * Pandas
 * Tkinter
 
-⸻
+<br>
 
 ⚙️ **Features**
 
@@ -34,7 +34,7 @@ To address this, this tool was developed to centralize inventory management, all
 * Simplified tracking of IT equipment (laptops, desktops, etc.)
 * Improved consistency and reduced human error in reporting
 
-⸻
+<br>
 
 🚀 **The Process**
 
@@ -54,7 +54,7 @@ To solve this, the application was designed and implemented as an internal tool 
 * Reduce daily manual counting efforts significantly
 * Improve workflow efficiency across the IT office
 
-⸻
+<br>
 
 📈 **Impact**
 
@@ -63,7 +63,7 @@ To solve this, the application was designed and implemented as an internal tool 
 * Streamlined IT asset management for staff and interns
 * Increased accessibility and transparency of inventory data
 
-⸻
+<br>
 
 📂 **Future Improvements**
 
@@ -75,6 +75,6 @@ To solve this, the application was designed and implemented as an internal tool 
 
 ⸻
 
-📌 Author
+📌 <h1>Author</h1>
 
 Developed as part of IT operations support to improve internal inventory management efficiency.
